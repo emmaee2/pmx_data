@@ -31,3 +31,6 @@ papers_with_no_doi:
 features: 1
 rows: 300
 missing_data: false
+
+benchmark_code_links:
+- https://github.com/emmaee2/wiring-fault-detection-demo
